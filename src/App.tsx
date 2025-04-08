@@ -7,8 +7,8 @@ function App() {
   console.log("Name:", name);
 
 
-  let age: number = 19;
-  let newAge: number = age + 20;
+  let age: number = 9;
+  let newAge: number = age + 10;
   console.log("New Age:", newAge);
 
 
@@ -22,7 +22,7 @@ function App() {
 
   let ikki: { name: string, age: number, isStudent: boolean } = {
     name: "Muxammadazizjon",
-    age: 20,
+    age: 19,
     isStudent: false
   };
   console.log("Person Object:", ikki);
